@@ -17,6 +17,8 @@
   - Secure, fast, and intuitive multi-step checkout.
 - **Personalized Recommendations:**
   - Suggested dishes and restaurants tailored to user preferences.
+- **Live Swiggy API Integration:**
+  - Real-time restaurant and menu data fetched directly from Swiggy's API for accurate and up-to-date information.
 
 ---
 
@@ -114,8 +116,8 @@ This project is licensed under the [MIT License](LICENSE).
 ## Contact 📧
 For any inquiries or feedback, feel free to reach out:
 - **Tejas Patil**  
-  📧 Email: (mailto:tspatil1161@gmail.com)  
-  🔗 LinkedIn:(https://www.linkedin.com/in/tejas-patil-a43993247/))  
+  📧 Email: [tspatil1161@gmail.com](mailto:tspatil1161@gmail.com)  
+  🔗 LinkedIn: [https://www.linkedin.com/in/tejas-patil-a43993247/](https://www.linkedin.com/in/tejas-patil-a43993247/)  
 
 ---
 
